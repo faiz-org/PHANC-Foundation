@@ -1,0 +1,644 @@
+{
+ "site": {
+  "top1": "🌱 A community-led preschool initiative",
+  "top2": "Mahul, Chembur, Mumbai · PHANC Foundation",
+  "name": "PHANC FOUNDATION",
+  "sub": "A4Apple Preschool",
+  "tag": "Small Beginnings. Stronger Communities. Brighter Futures.",
+  "email": "phancfoundation@gmail.com",
+  "loc": "Mahul, Chembur, Mumbai",
+  "web": "a4apple.org",
+  "foot": "Every child deserves a confident start.",
+  "wa": "",
+  "insta": "",
+  "fb": "",
+  "yt": ""
+ },
+ "hero": {
+  "img": "",
+  "h": "Welcome to A4Apple Preschool",
+  "s": "A community-led preschool initiative by PHANC Foundation | Mahul, Chembur, Mumbai",
+  "ps": [
+   "Every child deserves a strong beginning, regardless of where they are born or the circumstances in which they grow up.",
+   "In Mahul, Chembur, access to quality early childhood education has been a challenge for many families. A4Apple Preschool was born from a simple but powerful belief: children should not be left behind because they lack access to a nurturing preschool experience, and women from the community should have opportunities to contribute their skills towards building a better future.",
+   "A4Apple brings these two aspirations together — creating an accessible preschool for children aged 3–6 years while training and empowering educated women from the local community to become preschool educators.",
+   "We are building more than a school. We are nurturing young minds, creating local livelihood opportunities and strengthening the community, one child at a time.",
+   "Our belief: Every child deserves a confident start. Every community deserves the opportunity to grow."
+  ]
+ },
+ "stats": [
+  {
+   "n": "3–6",
+   "l": "years of age served by the preschool"
+  },
+  {
+   "n": "₹300–600",
+   "l": "typical monthly fee range"
+  },
+  {
+   "n": "Local women",
+   "l": "trained and empowered as preschool educators"
+  }
+ ],
+ "pg": {
+  "home": [
+   {
+    "t": "sec",
+    "k": "Welcome",
+    "h": "Welcome to A4Apple Preschool",
+    "s": "Where little minds grow and big possibilities begin.",
+    "img": "",
+    "ps": [
+     "At A4Apple, we believe that a child’s first learning experiences can shape their confidence, curiosity and relationship with education for years to come.",
+     "Our preschool provides children aged 3–6 years with an opportunity to explore, learn, express themselves and prepare for their transition into formal schooling in a supportive environment.",
+     "Located in Mahul, Chembur, A4Apple was established in response to the limited availability of quality preschool education in the surrounding community. We recognised that many children needed more than admission into a school — they needed a nurturing beginning that would help them feel confident, participate actively and develop the foundations for future learning.",
+     "Our approach combines locally relevant learning content, engaging teaching-learning materials, personalised attention and the commitment of women educators who understand the community and its children.",
+     "At the same time, A4Apple creates an opportunity for educated local women to develop teaching skills and build livelihoods while contributing to the education of children in their own neighbourhood.",
+     "Two meaningful outcomes. One community. A stronger future."
+    ],
+    "btns": [
+     [
+      "Discover Our Story",
+      "story"
+     ],
+     [
+      "Get in Touch",
+      "contact"
+     ]
+    ]
+   },
+   {
+    "t": "moments",
+    "k": "Moments",
+    "h": "Little moments, big smiles"
+   },
+   {
+    "t": "cards",
+    "alt": 1,
+    "dark": 1,
+    "k": "Our Three Pillars of Change",
+    "h": "How we create change",
+    "cols": 3,
+    "cards": [
+     {
+      "h": "1. A Strong Beginning for Every Child",
+      "p": "We want children to enter formal schooling with greater confidence, curiosity and readiness to learn.\n\nThrough developmentally appropriate activities, meaningful interactions and engaging learning materials, we support children in building foundational language, numeracy, communication, social and emotional skills.\n\nOur focus is not simply on what children can memorise, but on how they explore, express themselves, participate and develop confidence in their abilities."
+     },
+     {
+      "h": "2. Livelihood and Leadership for Local Women",
+      "p": "A4Apple creates opportunities for educated women from Mahul to develop their skills and work as preschool educators.\n\nThese women are not merely delivering lessons. They are becoming contributors to their community’s educational future.\n\nWith training, practical experience and continued support, they can develop their teaching abilities, build professional confidence and earn a livelihood while making a meaningful difference in the lives of local children."
+     },
+     {
+      "h": "3. Community Ownership and Sustainability",
+      "p": "A4Apple follows a community-oriented approach in which affordability, local participation and shared responsibility matter.\n\nOur monthly fees are kept minimal, generally ranging from ₹300 to ₹600, helping families access preschool education while contributing towards the school’s operating expenses, including educator salaries, rent and maintenance.\n\nThe aim is to build a model in which the community does not simply receive an educational service but becomes an active participant in sustaining it."
+     }
+    ]
+   },
+   {
+    "t": "sec",
+    "k": "Our Message",
+    "h": "A4Apple Preschool — Small Beginnings. Stronger Communities. Brighter Futures.",
+    "ps": [
+     "We believe a child’s future should not be limited by the opportunities available in their neighbourhood.",
+     "By bringing affordable preschool education closer to families, nurturing children’s confidence, developing local women as educators and encouraging community ownership, A4Apple is working towards a future in which early learning becomes an opportunity for every child.",
+     "One child. One educator. One community at a time."
+    ]
+   }
+  ],
+  "story": [
+   {
+    "t": "ph",
+    "h": "Who We Are",
+    "s": "A community-led preschool initiative by PHANC Foundation in Mahul, Chembur, Mumbai."
+   },
+   {
+    "t": "sec",
+    "k": "Our Story",
+    "h": "Why A4Apple Began",
+    "s": "A local challenge inspired a community-led solution.",
+    "img": "",
+    "ps": [
+     "Mahul is a community where families face challenges in accessing basic services and opportunities, including education, healthcare, livelihood and hygiene. Connectivity is also limited in parts of the locality, making access to information and services more difficult.",
+     "One of the challenges that stood out was the lack of accessible, quality preschool education in the vicinity.",
+     "Many children enter formal schooling without sufficient opportunities to develop foundational learning skills, classroom familiarity and the confidence to participate alongside their peers. When children are not adequately prepared for this transition, they may struggle to adjust, feel less confident and become vulnerable to disengagement or dropping out.",
+     "We saw an opportunity to address this challenge at its roots.",
+     "Instead of waiting for children to struggle after entering formal school, A4Apple set out to create a space where they could begin learning earlier, develop foundational skills and approach their next educational step with greater confidence.",
+     "But we also recognised another opportunity within the community.",
+     "There are educated women who want to contribute meaningfully to society and create livelihoods for themselves. With the right training, support and opportunities, they can become capable preschool educators who understand the children, families, language and context of their own neighbourhood.",
+     "This became the foundation of A4Apple.",
+     "We started with the belief that the community itself can be an important part of the solution to its educational challenges.",
+     "Today, A4Apple brings together early childhood education, local women’s participation and community ownership in one initiative."
+    ]
+   },
+   {
+    "t": "cards",
+    "alt": 1,
+    "k": "Vision, Mission and Purpose",
+    "h": "What guides us",
+    "cols": 3,
+    "cards": [
+     {
+      "h": "Our Vision",
+      "p": "A community where every child has access to quality early learning, every child enters formal schooling with confidence, and local women have opportunities to become active contributors to education and community development."
+     },
+     {
+      "h": "Our Mission",
+      "p": "To provide affordable, accessible and meaningful preschool education to children aged 3–6 years in Mahul, while developing local women as capable preschool educators who can nurture children’s growth and strengthen their community."
+     },
+     {
+      "h": "Our Purpose",
+      "p": "A4Apple exists to address two interconnected needs: the need for children to receive a strong educational foundation and the need for women in the community to access meaningful livelihood opportunities.\n\nBy bringing these needs together, we aim to create a locally rooted model of early childhood education that families can access, educators can take ownership of, and the community can sustain."
+     }
+    ]
+   },
+   {
+    "t": "sec",
+    "k": "Our Commitment",
+    "h": "Our Commitment to the Community",
+    "s": "Education that grows from within the community.",
+    "ps": [
+     "A4Apple began with a local need and a belief in local potential.",
+     "The project recognises that communities facing multiple challenges also possess valuable strengths: educated women, families who want better opportunities for their children, and people who understand their neighbourhood’s needs.",
+     "Our approach seeks to bring these strengths together.",
+     "By making preschool education more accessible, creating opportunities for local women and adapting learning to children’s context, A4Apple contributes to a community-based response to early childhood education.",
+     "We see community development as a connected process. When children receive stronger educational foundations, women gain livelihood opportunities and families participate in sustaining local educational services, the benefits can extend beyond the classroom.",
+     "A4Apple is one step towards building those connections in Mahul.",
+     "Our long-term aspiration is to strengthen this community-led approach and explore how similar models of accessible early learning and local women’s participation can contribute to development in other communities."
+    ]
+   }
+  ],
+  "programme": [
+   {
+    "t": "ph",
+    "h": "What We Do",
+    "s": "Learning that prepares children for life and school."
+   },
+   {
+    "t": "cards",
+    "k": "Our Preschool Programme",
+    "h": "Learning that prepares children for life and school.",
+    "cols": 3,
+    "ps": [
+     "A4Apple Preschool serves children aged 3–6 years, focusing on the foundational years that precede formal schooling.",
+     "We believe children learn best when education is connected to their everyday experiences and when they have opportunities to explore, practise, ask questions and learn through interaction.",
+     "Our learning approach is designed to help children develop across multiple areas."
+    ],
+    "cards": [
+     {
+      "h": "Language and communication",
+      "p": "Children are encouraged to listen, speak, share experiences, understand instructions, engage with stories and develop the confidence to express their thoughts."
+     },
+     {
+      "h": "Early literacy and numeracy",
+      "p": "Through age-appropriate activities, children begin exploring letters, sounds, numbers, shapes, patterns, quantities and other foundational concepts."
+     },
+     {
+      "h": "Thinking and problem-solving",
+      "p": "Children are given opportunities to observe, compare, sort, experiment, ask questions and work through simple challenges."
+     },
+     {
+      "h": "Social and emotional development",
+      "p": "Group activities and everyday classroom interactions help children practise sharing, cooperation, emotional expression, friendship and participation."
+     },
+     {
+      "h": "Physical and creative development",
+      "p": "Movement, drawing, painting, hands-on activities and creative exploration support coordination, expression and the development of fine and gross motor skills."
+     },
+     {
+      "h": "School readiness and confidence",
+      "p": "Children become familiar with classroom routines, group learning, following instructions, expressing needs and participating in structured activities — all of which can support a smoother transition into formal schooling."
+     }
+    ],
+    "ps2": [
+     "Our objective is to help children begin their educational journey with a stronger foundation, a greater sense of belonging and the confidence to keep learning."
+    ]
+   },
+   {
+    "t": "rows",
+    "alt": 1,
+    "k": "Our Distinctive Approach",
+    "h": "Learning Rooted in the Community",
+    "s": "Relevant learning. Familiar experiences. Personalised attention.",
+    "ps": [
+     "At A4Apple, we understand that educational content becomes more meaningful when children can connect it to their own lives.",
+     "We therefore adapt learning content to the local context, using familiar examples, everyday experiences and child-friendly activities that make concepts easier to understand and relate to.",
+     "Children should not feel that learning belongs to a world far removed from their own. Their homes, surroundings, language, experiences and community can all become starting points for discovery.",
+     "Our educators make additional efforts to help children understand concepts, participate in activities and learn at their own pace. Their familiarity with the local context allows them to connect with children and families in a more personal and meaningful way.",
+     "We also use teaching-learning materials (TLMs) to make learning more engaging and experiential.",
+     "At A4Apple, we strive to make learning:"
+    ],
+    "rows": [
+     {
+      "h": "Local and relatable",
+      "p": "Connecting classroom concepts to children’s everyday lives."
+     },
+     {
+      "h": "Child-friendly",
+      "p": "Using activities and materials suited to children’s developmental stages."
+     },
+     {
+      "h": "Interactive",
+      "p": "Encouraging children to participate rather than only listen."
+     },
+     {
+      "h": "Personalised",
+      "p": "Paying attention to children’s needs, interests and learning pace."
+     },
+     {
+      "h": "Confidence-building",
+      "p": "Creating opportunities for children to express themselves, attempt new tasks and experience progress."
+     }
+    ],
+    "ps2": [
+     "We believe quality education is not defined only by the resources available in a classroom. It is also shaped by the relationships, commitment and understanding that educators bring to children’s learning."
+    ]
+   },
+   {
+    "t": "sec",
+    "k": "Our Educators",
+    "h": "Women from the Community, Growing with the Community",
+    "s": "When local women become educators, the whole community moves forward.",
+    "img": "",
+    "ps": [
+     "One of the defining features of A4Apple is our commitment to developing educated women from the local community as preschool teachers.",
+     "We believe local women bring an important strength to early childhood education: familiarity with the community’s language, culture, everyday realities and family context.",
+     "This can help create stronger relationships with children and parents and support a more personalised learning experience.",
+     "A4Apple seeks to build on this strength by providing women with opportunities to develop their teaching skills, gain practical experience and contribute to children’s development.",
+     "For these women, the role of a preschool educator can mean more than employment. It can provide an opportunity to build professional confidence, earn an income, develop new capabilities and become a visible contributor to the community’s future.",
+     "For children, having educators who understand their surroundings can make the preschool environment feel more familiar and welcoming.",
+     "For families, local educators can help build trust and make communication more accessible.",
+     "For the community, the model creates a connection between education and livelihood, allowing local talent to contribute directly to local development.",
+     "At A4Apple, we see local women not only as teachers of children, but also as partners in shaping the community’s future."
+    ]
+   },
+   {
+    "t": "sec",
+    "alt": 1,
+    "k": "Affordable Preschool Education",
+    "h": "Quality early learning should be within reach of families.",
+    "ps": [
+     "We believe that access to preschool education should not become an additional burden for families already facing economic and social challenges.",
+     "A4Apple keeps its monthly fees minimal, generally between ₹300 and ₹600.",
+     "These contributions go towards essential operating expenses, including educator salaries, rent and school maintenance.",
+     "This approach reflects our commitment to affordability and community participation. Families contribute towards sustaining the school, while the initiative works to keep early learning accessible to children in the locality.",
+     "The fee structure is not designed to maximise profit. It is intended to help maintain the school and support the people who make children’s learning possible.",
+     "We recognise that the long-term sustainability of a community-based preschool requires shared responsibility, careful use of resources and continued commitment to the needs of children and families.",
+     "Our aspiration is to demonstrate how locally rooted, affordable preschool education can create value for children while strengthening community participation."
+    ]
+   }
+  ],
+  "preschool": [
+   {
+    "t": "ph",
+    "h": "Our Preschool",
+    "s": "A space designed to help children feel comfortable, safe and ready to explore."
+   },
+   {
+    "t": "cards",
+    "k": "Our Learning Environment",
+    "h": "A comfortable, safe place to learn",
+    "cols": 2,
+    "ps": [
+     "A4Apple aims to provide a learning environment that supports children’s engagement, comfort and development.",
+     "Our current facilities include:"
+    ],
+    "cards": [
+     {
+      "h": "CCTV surveillance",
+      "p": "CCTV is available as part of the school’s safety arrangements. The school should communicate its actual supervision, privacy and child-protection procedures alongside this facility."
+     },
+     {
+      "h": "Air-conditioned classrooms",
+      "p": "Air-conditioned classrooms provide a more comfortable indoor environment for children during learning activities."
+     },
+     {
+      "h": "Classrooms with separate toilets",
+      "p": "Separate toilet facilities support children’s everyday routines, comfort and hygiene."
+     },
+     {
+      "h": "Advanced teaching-learning materials",
+      "p": "Our teaching-learning materials help educators make learning more interactive, concrete and engaging for young children."
+     }
+    ],
+    "ps2": [
+     "These facilities support the broader purpose of A4Apple: creating an environment where children can participate in learning and educators can deliver meaningful educational experiences.",
+     "We recognise that facilities are only one part of a quality preschool. They must be complemented by caring educators, thoughtful learning experiences, appropriate supervision and attention to children’s well-being."
+    ]
+   },
+   {
+    "t": "rows",
+    "alt": 1,
+    "k": "Preparing Children for Formal Schooling",
+    "h": "Before children learn to compete, they need the confidence to participate.",
+    "img": "",
+    "ps": [
+     "One of the motivations behind A4Apple was the difficulty some children experience when moving directly into formal schooling without an adequate preschool foundation.",
+     "Children who have had limited exposure to structured group learning may find classroom routines, communication, foundational concepts and interaction with peers challenging.",
+     "When they compare themselves with classmates who have had more early learning opportunities, some children may experience a loss of confidence. These challenges can contribute to disengagement and, in some cases, dropping out of school.",
+     "A4Apple seeks to address this challenge before it becomes more difficult to overcome.",
+     "Through preschool experiences, children get opportunities to:"
+    ],
+    "rows": [
+     {
+      "h": "",
+      "p": "Become familiar with learning environments and classroom routines."
+     },
+     {
+      "h": "",
+      "p": "Develop foundational language and early numeracy skills."
+     },
+     {
+      "h": "",
+      "p": "Practise listening, communicating and participating in groups."
+     },
+     {
+      "h": "",
+      "p": "Build confidence through repeated practice and encouragement."
+     },
+     {
+      "h": "",
+      "p": "Develop relationships with peers and educators."
+     },
+     {
+      "h": "",
+      "p": "Become more comfortable approaching new learning experiences."
+     }
+    ],
+    "ps2": [
+     "By strengthening these foundations, we aim to help children make a more confident transition into formal schooling.",
+     "Our work is guided by the belief that school readiness is not simply about knowing letters and numbers. It is also about helping children feel capable, included and prepared to participate in their next stage of learning."
+    ]
+   }
+  ],
+  "impact": [
+   {
+    "t": "ph",
+    "h": "Our Impact",
+    "s": "Small steps in childhood can open up larger possibilities."
+   },
+   {
+    "t": "cards",
+    "k": "What We Aim to Change",
+    "h": "Our Impact",
+    "cols": 2,
+    "ps": [
+     "A4Apple’s impact is best understood through the changes it seeks to create in the lives of children, women and the community."
+    ],
+    "cards": [
+     {
+      "h": "For children",
+      "p": "Greater access to preschool education, stronger foundational skills, increased familiarity with classroom learning and improved confidence as they prepare to enter formal schooling."
+     },
+     {
+      "h": "For women",
+      "p": "Opportunities to develop teaching skills, gain work experience, earn an income and contribute to education within their own community."
+     },
+     {
+      "h": "For families",
+      "p": "An affordable local preschool option, closer connections with educators and greater opportunities to support children’s early learning."
+     },
+     {
+      "h": "For the community",
+      "p": "A locally rooted educational initiative that connects child development, women’s livelihood and shared responsibility for sustaining early learning."
+     }
+    ],
+    "ps2": [
+     "The experience of the project also reflects an important learning: early childhood education should respond to the realities of the community it serves. Local relevance, trusted relationships and committed educators can be valuable assets in making learning more accessible and meaningful.",
+     "We aim to strengthen these outcomes over time and document our progress through reliable information on children’s participation, educator development, family engagement and the transition to formal schooling."
+    ]
+   },
+   {
+    "t": "sec",
+    "alt": 1,
+    "k": "A Note from the Founder",
+    "h": "A journey that began with a simple question: What can we do for our community?",
+    "img": "",
+    "ps": [
+     "A4Apple began with the recognition that children in Mahul deserved access to a quality preschool experience, even when their families had limited educational opportunities in the immediate neighbourhood.",
+     "I also saw the potential of educated women from the community who wanted to do something meaningful and build a livelihood.",
+     "These two needs came together in the idea of A4Apple.",
+     "I believe children should not begin their formal education already feeling that they are behind. They deserve time, encouragement and the right learning experiences to develop confidence before moving into the next stage of school.",
+     "I also believe that communities should have opportunities to shape their own solutions. When local women become educators, they bring their understanding of the community into the classroom and help create a stronger connection between children, families and learning.",
+     "A4Apple is our effort to bring these beliefs into practice — through affordable preschool education, locally relevant teaching and opportunities for women to contribute to their community’s development.",
+     "There is much more to do, and we continue to learn along the way. But every child who gets an opportunity to learn, every educator who develops her capabilities and every family that becomes part of this journey reinforces why this work matters.",
+     "Our hope is that A4Apple continues to grow as a community-owned effort, creating stronger beginnings for children and more opportunities for the people who nurture them.",
+     "Because a brighter future begins with the opportunities we create today.",
+     "— Founder, A4Apple Preschool"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "t": "ph",
+    "h": "Events & Photos",
+    "s": "Moments from our classrooms, celebrations and community."
+   },
+   {
+    "t": "events",
+    "k": "Events",
+    "h": "Our Events"
+   },
+   {
+    "t": "gallery",
+    "alt": 1,
+    "k": "Gallery",
+    "h": "Photo Gallery"
+   }
+  ],
+  "contact": [
+   {
+    "t": "ph",
+    "h": "Contact & Join the Journey",
+    "s": "Every contribution towards early learning matters."
+   },
+   {
+    "t": "sec",
+    "k": "Join the A4Apple Journey",
+    "h": "Every contribution towards early learning matters.",
+    "ps": [
+     "We welcome conversations with individuals and organisations who believe in accessible early childhood education, women’s livelihood opportunities and community-led development.",
+     "If you would like to learn more about A4Apple Preschool, understand our approach or explore ways to support the initiative, we would be happy to hear from you.",
+     "Together, we can help create an environment where children have the opportunity to learn with confidence and local women can play a meaningful role in shaping the future of their community."
+    ]
+   },
+   {
+    "t": "contact",
+    "alt": 1,
+    "k": "Contact PHANC Foundation",
+    "h": "Get in touch"
+   },
+   {
+    "t": "faq",
+    "k": "Frequently Asked Questions",
+    "h": "Questions parents and partners ask"
+   }
+  ],
+  "donate": [
+   {
+    "t": "ph",
+    "h": "Donate",
+    "s": "Help a child begin with confidence."
+   },
+   {
+    "t": "donate"
+   }
+  ]
+ },
+ "events": [],
+ "gallery": [
+  {
+   "img": "art:0",
+   "c": "Learning together"
+  },
+  {
+   "img": "art:1",
+   "c": "Books, colours and curiosity"
+  },
+  {
+   "img": "art:2",
+   "c": "Our educators"
+  },
+  {
+   "img": "art:3",
+   "c": "Rooted in the community"
+  },
+  {
+   "img": "art:4",
+   "c": "Play and creativity"
+  },
+  {
+   "img": "art:5",
+   "c": "Small steps, big hearts"
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is A4Apple Preschool?",
+   "a": "A4Apple is a community-oriented preschool initiative under PHANC Foundation in Mahul, Chembur. It aims to provide accessible early learning for children while creating livelihood opportunities for educated women from the local community."
+  },
+  {
+   "q": "Which age group does A4Apple serve?",
+   "a": "A4Apple caters to children aged 3–6 years."
+  },
+  {
+   "q": "Why was A4Apple started?",
+   "a": "The initiative was started in response to limited access to quality preschool education in the locality and the need to help children develop the foundations and confidence required for formal schooling. It also seeks to create livelihood opportunities for local women through preschool teaching."
+  },
+  {
+   "q": "What makes A4Apple different?",
+   "a": "A4Apple adapts learning content to the local context, uses teaching-learning materials and places importance on personalised attention. Its educators are local women who understand the community and make additional efforts to support children’s learning."
+  },
+  {
+   "q": "What are the monthly fees?",
+   "a": "The monthly fees generally range from ₹300 to ₹600. These contributions help cover operating expenses, including educator salaries, rent and maintenance."
+  },
+  {
+   "q": "What facilities does the preschool have?",
+   "a": "Current facilities include CCTV, air-conditioned classrooms, separate toilets and advanced teaching-learning materials."
+  },
+  {
+   "q": "How does A4Apple support school readiness?",
+   "a": "The preschool provides opportunities for children to develop foundational language, numeracy, communication, social and emotional skills, become familiar with classroom routines and build confidence before entering formal schooling."
+  },
+  {
+   "q": "How does A4Apple support women?",
+   "a": "The initiative creates opportunities for educated women from the local community to develop teaching skills and earn a livelihood as preschool educators while contributing to children’s development."
+  },
+  {
+   "q": "How can I contact A4Apple or PHANC Foundation?",
+   "a": "You can email us at phancfoundation@gmail.com to enquire about the preschool, the project or potential opportunities to engage with the initiative."
+  }
+ ],
+ "donate": {
+  "k": "Support A4Apple",
+  "h": "Every contribution towards early learning matters.",
+  "ps": [
+   "Your contribution helps A4Apple keep early learning affordable for children in Mahul and creates livelihood opportunities for local women educators.",
+   "Choose any amount that feels right — every rupee goes towards keeping the school running."
+  ],
+  "amts": [
+   {
+    "a": "₹500",
+    "t": "Towards educator salaries"
+   },
+   {
+    "a": "₹1,000",
+    "t": "Towards rent and maintenance"
+   },
+   {
+    "a": "₹2,500",
+    "t": "Towards teaching-learning materials"
+   }
+  ],
+  "qr": "",
+  "upi": "",
+  "upiName": "PHANC Foundation",
+  "bank": [
+   {
+    "l": "Account name",
+    "v": ""
+   },
+   {
+    "l": "Account number",
+    "v": ""
+   },
+   {
+    "l": "IFSC code",
+    "v": ""
+   },
+   {
+    "l": "Bank & branch",
+    "v": ""
+   }
+  ],
+  "stepsH": "How to donate",
+  "steps": [
+   "Scan the QR code, or use the UPI ID / bank details.",
+   "Enter the amount you wish to contribute.",
+   "Email us your payment screenshot at phancfoundation@gmail.com so we can thank you."
+  ],
+  "note": "Please email us after donating so we can acknowledge your contribution."
+ },
+ "slides": [
+  {
+   "k": "PHANC Foundation · Mahul, Chembur",
+   "h": "Small Beginnings. Stronger Communities. Brighter Futures.",
+   "p": "A community-led preschool initiative by PHANC Foundation in Mahul, Chembur, Mumbai.",
+   "b": "Our Story",
+   "to": "story",
+   "img": ""
+  },
+  {
+   "k": "Ages 3–6",
+   "h": "Every child deserves a confident start.",
+   "p": "Affordable, meaningful preschool education, with monthly fees generally between ₹300 and ₹600.",
+   "b": "What We Do",
+   "to": "programme",
+   "img": ""
+  },
+  {
+   "k": "Our Educators",
+   "h": "Local women, growing as educators.",
+   "p": "Educated women from the community are trained and empowered to become preschool teachers for their own neighbourhood.",
+   "b": "Meet the idea",
+   "to": "programme",
+   "img": ""
+  },
+  {
+   "k": "Our Approach",
+   "h": "Learning rooted in the community.",
+   "p": "Familiar examples, engaging teaching-learning materials and personalised attention for every child.",
+   "b": "Our Preschool",
+   "to": "preschool",
+   "img": ""
+  },
+  {
+   "k": "Support Us",
+   "h": "Help a child begin with confidence.",
+   "p": "Every contribution towards early learning matters.",
+   "b": "♥ Donate",
+   "to": "donate",
+   "img": ""
+  }
+ ]
+}
